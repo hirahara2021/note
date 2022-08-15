@@ -4,8 +4,8 @@ title: Note
 description: Note
 lang: ja_JP
 author: hirahara2021
-date: 2021-11-26T17:00+09:00
-last_modified_at: 2021-11-26T17:00+09:00
+date: 2022-08-15T17:00+09:00
+last_modified_at: 2022-08-15T17:10+09:00
 ---
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-TD28YG2FQ0"></script>
@@ -18,6 +18,15 @@ last_modified_at: 2021-11-26T17:00+09:00
 </script>
 
 思うがままに何かを書き留めていきます。(最終更新日:{{ page.last_modified_at | date: "%Y年%m月%d日" }})
+
+## 投資
+
+|No|内容|
+|--|--|
+|1|投資にはまったく興味なしだったが、知り合いの話を聞いて調べ、投資してみることにした(2021/12)|
+|2|楽天・全世界株式 つみたてNISA開始(開始時16,xxx円)(2021/12)|
+|3|敵対的TOB失敗株の買い取り価格予想値(1500台)と株価に開きがあり、「TOBに乗っかって買った層の売りがひと段落し底値から回復基調」時に関西フードマーケット株(10xx円)購入(2021/12)<br>※株主優待が使えるとこ住み|
+|4|2022決算前の楽天株が低水準で推移していたが、「目に見える悪材料が出尽くしていて、中長期的にこれ以上の下落はなさそう」と判断して決算発表前に楽天グループ株(66x円)購入(2022/08)|
 
 ## 初期設定
 
